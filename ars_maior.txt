@@ -2,24 +2,28 @@ Dōnātī
 Grammaticī Urbis Rōmae
 Ars Grammatica
 
-Dē Vōce
-Dē Litterā
-Dē Syllabā
-Dē Pedibus
-Dē Tonīs
-Dē Positūrīs
-Dē Partibus Ōrātiōnis
-Dē Nōmine
-Dē Prōnōmine
-Dē Verbō
-Dē Adverbiō
-Dē Participiō
-Dē Coniūnctiōne
-Dē Praepositiōne
-Dē Interiectiōne
-Dē Barbarismō
-Dē Soloecismō
-Dē Cēterīs Vitiīs
-Dē Metaplasmō
-Dē Schēmatibus
-Dē Tropīs
+* Dē Vōce
+* Dē Litterā
+* Dē Syllabā
+* Dē Pedibus
+* Dē Tonīs
+* Dē Positūrīs
+* Dē Partibus Ōrātiōnis
+** Dē Nōmine
+** Dē Prōnōmine
+** Dē Verbō
+** Dē Adverbiō
+** Dē Participiō
+   Participium est pars ōrātiōnis dicta, quod partem capiat nōminis, partem verbī. Recipit enim ā nōmine genera et cāsūs, ā verbō tempora et significātiōnēs, ab utrōque numerum et figūram. Participiīs accidunt sex: genus, cāsus, tempus, significātiō, numerus, figūra.
+   Genera participiīs accidunt quattuor, masculīnum, ut lēctus, fēminīnum, ut lēcta, neutrum, ut lectum, commūne tribus generibus, ut legēns. Nam omnia praesentis temporis participia generis sunt commūnīs. Cāsūs totidem sunt participiōrum, quot et nōminum: nam per omnēs cāsūs etiam participia dēclīnantur. Tempora participiīs accidunt tria: praesēns, praeteritum, et futūrum, ut luctāns luctātus, luctātūrus. Significātiōnēs participiōrum ā generibus verbōrum sūmuntur. Veniunt enim participia ā verbō āctīvō duo, praesentis temporis et futūrī, ut legēns, lēctūrus; ā passīvō duo, praeteritī temporis et futūrī, ut lēctus legendus; ā neutrō duo, sīcut ab āctīvō, praesentis temporis et futūrī, ut stāns statūrus; ā dēpōnentī tria: praesentīs, praeteritī, et futūrī, ut luctāns, luctātus, luctātūrus; ā commūnī quattuor: praesentīs, praeteritī, et duo futūra, ut crīmināns, crīminātus, crīminātūrus, crīminandus. Inchoātīva participia praesentis temporis sunt tantum, ut horrēscēns, tepēscēns, calēscēns. Dēfectīva interdum alicuius sunt temporis, ut soleō, solēns, solitus, interdum nūllīus, ut ab eō quod est meminī nūllum participium reperītur: interdum ā nōn dēfectīvō verbō participia dēfectīva sunt, ut ab eō quod est studeō studēns, futūram tempus nōn habet. Ab inpersōnālī verbō participia nisi ūsūrpāta nōn veniunt. Numerus participiīs accidit uterque, singulāris et plūrālis: singulāris, ut hīc legēns, plūrālis, ut hī legentēs. Figūra item participiōrum duplex est. Aut enim simplicia sunt participia, ut scrībēns, aut conposita, ut dēscrībēns. Conpōnī etiam participia quattuor modīs possunt.
+  Sunt nōmina speciem participiōrum habentiā, ut tunicātus, galeātus, quae quia ā verbō nōn veniunt, nōn sunt participiīs applicanda. Ex quibus sunt etiam illa quae, cum participia videantur, verbōrum tamen significātiōne prīvāta sunt, ut prānsus, cēnātus, placita, nūpta, triumphāta, rēgnāta: nam prandeor, cēnor, placeor, nūbor, triumphor, rēgnor nōn dīcitur. Sunt item alia participia, quae acceptā praepositiōne et ā verbīs et ā participiīs recēdunt, ut nocēns, innocēns: nam noceō dīcitur, innoceō nōn dīcitur. Sunt velutī participia, quae ā verbō veniunt et, quia tempus nōn habent, nōmina magis quam participia iūdicantur, ut furibundus moribundus. Sunt multa participia eādem et nōmina, ut passūs, vīsūs, cultūs, quae tamen et in cāsibus discrepant et dē temporibus dīnōscuntur. Sunt participia dēfectīva, quae per omnia tempora īre nōn possunt, ut coeptus, urguendus. Sunt participia, quae acceptā conparātiōne fīunt nōmina, ut acceptus incēnsus, acceptior incēnsior. Adverbia dē participiīs fierī posse nōn nūllī negant; sed hōs plūrimae lēctiōnis revincit auctōritās.
+
+** Dē Coniūnctiōne
+** Dē Praepositiōne
+** Dē Interiectiōne
+* Dē Barbarismō
+* Dē Soloecismō
+* Dē Cēterīs Vitiīs
+* Dē Metaplasmō
+* Dē Schēmatibus
+* Dē Tropīs
