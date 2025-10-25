@@ -3,6 +3,8 @@ Grammaticī Urbis Rōmae
 Ars Grammatica
 
 * Dē Vōce
+Vōx est āēr ictus sēnsibilis audītū, quantum in ipsō est. Omnis vōx aut articulāta est aut cōnfūsa. Articulāta est quae litterīs conprehendī potest, cōnfūsa quae scrībī nōn potest.
+
 * Dē Litterā
 * Dē Syllabā
 * Dē Pedibus
